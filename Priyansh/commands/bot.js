@@ -329,7 +329,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   if ((event.body.toLowerCase() == "😋😋")) {return api.sendMessage("😒GHR WALO JY AJ ROTI NHI DALI 🤣🤝🏻", threadID);
      };
 
-  if ((event.body.toLowerCase() == "🧐🧐")) {return api.sendMessage("KIYA DEKH RAHA PAPA KI BARAT A RAHI 😝", threadID);
+  if ((event.body.toLowerCase() == "🧐🧐")) {return api.sendMessage("️aRy mEri JaN kYa howa Qw M0od KhRb kR rHe Ho APna🙂❤️", threadID);
      };
 
   if ((event.body.toLowerCase() == "🥰🥰🥰")) {return api.sendMessage("TU TOO GYAA BETYYY 🤣", threadID);
