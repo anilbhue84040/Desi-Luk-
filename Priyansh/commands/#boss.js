@@ -7,7 +7,7 @@ module.exports = {
         name: "boss",
         version: "1.0.1",
         hasPermssion: 0,
-        credits: "SHANKAR SUMAN",
+        credits: "CHERY EX RITU ",
         description: "no prefix",
         usePrefix: false,
         commandCategory: "No command marks needed",
