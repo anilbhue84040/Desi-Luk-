@@ -26,8 +26,8 @@ module.exports.config = {
   name: "-BOT",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "ARYAN BABU",
-  description: "MADE BY ARYAN BABU",
+  credits: "Desīī Luk",
+  description: "MADE BY Desīī luk",
   commandCategory: "No command marks needed",
   cooldowns: 0,
 };
