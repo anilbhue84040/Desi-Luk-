@@ -3,7 +3,7 @@ module.exports.config = {
   name: "#bhabhi.js",
     version: "1.1.1",
   hasPermssion: 0,
-  credits: "𝐏𝐑𝐈𝐘𝐀𝐍𝐒𝐇𝐈 𝐊𝐀𝐔𝐑", 
+  credits: " Ritu ", 
   description: "Just Respond",
   commandCategory: "no prefix",
     cooldowns: 5, 
@@ -14,10 +14,10 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
   let react = event.body.toLowerCase();
   if(react.includes("gayatri") ||
      react.includes("Gayatri") || react.includes("bhabhi") || react.includes("Bhabhi") ||
-react.includes("GAYATRI") ||
-react.includes("Gayatri jaiswal")) {
+react.includes(" Desi Luk") ||
+react.includes("Chery")) {
     var msg = {
-        body: `😛𝐌𝐀𝐈 𝐁𝐎𝐓 😹𝐇𝐔𝐍 𝐓𝐎 𝐊𝐘𝐀 𝐇𝐔𝐀😛 𝐌𝐀𝐈 𝐁𝐇𝐈 𝐁𝐇𝐀𝐁𝐇𝐈 😆𝐁𝐎𝐋𝐔𝐍𝐆𝐀👻𝐁𝐇𝐀𝐁𝐇𝐈😸`,
+        body: `😛 𝐌aīī 𝐁𝐎𝐓 Hum to Kīīya Hua Maīī 𝐁h𝐈 Bhabhīī Bolunga Bhabhīī😸`,
       }
       api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🥰", event.messageID, (err) => {}, true)
