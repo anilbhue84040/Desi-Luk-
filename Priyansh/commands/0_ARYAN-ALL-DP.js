@@ -8,7 +8,7 @@ module.exports.config = {
   name: "alldp",
   version: "1.4.0",
   hasPermssion: 0,
-  credits: "SHANKAR SIR🙏",
+  credits Chery",
   description: "Send Girl DP, Boy DP, Memes, or Girl Videos based on command.",
   commandCategory: "Random-IMG",
   usages: "Type 'boydp', 'girldp', 'meme', or 'girlvideo'.",
